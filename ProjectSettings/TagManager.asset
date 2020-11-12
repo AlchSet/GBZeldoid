@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow
+  - SpikeBlock
+  - PlayerInbound
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - CamBounds
+  - InnerBox
+  - Interactable
+  - Holes
+  - Movable
+  - Area
+  - Shield
+  - Breakable
+  - Spikeblock
+  - Teleport
+  - NPC
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 3327840105
+    locked: 0
